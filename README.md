@@ -110,7 +110,4 @@ Thus, the Hough Transform  is successfully implemented by completing the missing
 
 ---
 
-##  Developed By
 
-* **Name:** AYSHWARIYA J
-* **Register No:** 212224230030
